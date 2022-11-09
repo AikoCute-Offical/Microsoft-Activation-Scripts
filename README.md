@@ -13,7 +13,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 - Or Click Coppy it
 
 ```
-`irm https://raw.githubusercontent.com/AikoCute-Offical/Microsoft-Activation-Scripts/master/active.ps1 | iex`
+irm https://raw.githubusercontent.com/AikoCute-Offical/Microsoft-Activation-Scripts/master/active.ps1 | iex
 ```
 
 -   You will see the activation options, and follow onscreen instructions.
